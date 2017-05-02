@@ -1,7 +1,12 @@
 {
 	"name": "sizeid/advisor-demo",
-	"description": "Demo for SizeID Advisor",
-	"author": "SizeID",
-	"require": {
-	}
+	"description": "Demo of SizeID Advisor",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Jakub Filla",
+			"email": "jakub.filla@wavevision.cz",
+			"role": "Developer"
+		}
+	]
 }
